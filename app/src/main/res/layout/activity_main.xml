@@ -170,7 +170,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/_820"
                     android:textColor="@color/primary_text"
-                    android:textSize="@dimen/_16ssp"></TextView>
+                    android:textSize="@dimen/_18ssp"></TextView>
 
             </LinearLayout>
 
